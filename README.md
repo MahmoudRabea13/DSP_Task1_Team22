@@ -30,8 +30,8 @@ ______________
 * Reconstruct the signal according to [Nyquist-Shannon sampling theorem](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)
 * Download a CSV file of the frequencies and amplitudes of the generated signal
 
-### Task Submitted by SBME2024 students :syringe::
-* [Gehad Ahemd](https://github.com/Gehad28)
-* [Sara Ayman](https://github.com/SaraElwatany)
-* [Mahmoud Rabea](https://github.com/MahmoudRabea13)
-* [Mariam Mohammed](https://github.com/mariamezzat01)
+### Task Submitted by SBME2024 *(1st semester , 3rd year)* students:
+* [Gehad Ahemd](https://github.com/Gehad28) Sec 1 BN 25
+* [Sara Ayman](https://github.com/SaraElwatany) Sec 1 BN 39
+* [Mahmoud Rabea](https://github.com/MahmoudRabea13) Sec 2 BN 25
+* [Mariam Mohammed](https://github.com/mariamezzat01) Sec 2 BN 33  
