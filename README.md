@@ -20,13 +20,13 @@ ______________
 #### 1. Browse Section:
 * Upload a signal 
 * Control the sample frequency
-* Add noise to the signal (SNR ratio from 0 -> 1)
+* Add noise to the signal (SNR ratio from 0 -> 100)
 * Reconstruct the signal according to [Nyquist-Shannon sampling theorem](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)
 
 #### 2. Signal Generator:
-* Add a signal by Frequency or Amplitude (1 -> 10)
-* Delete a signal by Frequency or Amplitude (1 -> 10)
-* Add noise to the generated signal (SNR ratio from 0 -> 1)
+* Add a signal by Frequency and its Amplitude (1 -> 10)
+* Delete a signal by Frequency (1 -> 10)
+* Add noise to the generated signal (SNR ratio from 0 -> 100)
 * Reconstruct the signal according to [Nyquist-Shannon sampling theorem](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)
 * Download a CSV file of the frequencies and amplitudes of the generated signal
 
