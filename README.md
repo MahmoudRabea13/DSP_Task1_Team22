@@ -28,7 +28,6 @@ ______________
 * Delete a signal by Frequency (1 -> 10)
 * Add noise to the generated signal (SNR ratio from 0 -> 100)
 * Reconstruct the signal according to [Nyquist-Shannon sampling theorem](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)
-* Download a CSV file of the frequencies and amplitudes of the generated signal
 
 ### Task Submitted by SBME2024 *(1st semester , 3rd year)* students:
 * [Gehad Ahemd](https://github.com/Gehad28) Sec 1 BN 25
