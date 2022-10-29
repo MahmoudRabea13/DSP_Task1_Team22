@@ -225,9 +225,16 @@ if uploaded_file is None:
         st.markdown('###### Remove')        
 
         removedFrequency = st.number_input('Frequency to be removed', 1, 10, step = 1)
+        i = 0
+        while i < len(st.session_state.frequencies):
+            if removedFrequency == st.session_state.frequencies[i]:
+                removedAmplitude = st.session_state.amplitudes[i]
+                break
+            i += 1
         if st.button('ok'):
                 if removedFrequency in st.session_state.frequencies:
                     st.session_state.frequencies.remove(removedFrequency)
+                    st.session_state.amplitudes.remove(removedAmplitude)
                 else:
                     with col2:
                        st.warning('Please enter an exiseted component.')
